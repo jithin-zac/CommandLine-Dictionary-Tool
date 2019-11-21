@@ -15,6 +15,6 @@ commands to run various funcationalities
   
 5.random word all data : node dict  
 
-6.input word all data : node dict <word>
+6.input word all data: node dict <word>
   
 7.word game : node dict play  
