@@ -5,7 +5,7 @@ run npm install to install all dependencies
 
 commands to run various funcationalities
 
-1.word definitons : node dict defn <word>
+1.word definitons : node dict defn {word}
   
 2.word examples : node dict ex <word>
   
